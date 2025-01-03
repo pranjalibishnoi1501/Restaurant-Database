@@ -1,4 +1,4 @@
-# Project Team 14 Final Submission
+# Restaurant Database
 
 ## The Database
 The following relations are present in the database:
